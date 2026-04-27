@@ -1,4 +1,5 @@
 ## Hi there 👋
+DevOps & Cloud Engineer based in Sydney. Most of my work lives in private repos — happy to walk through architecture, IaC patterns, and CI/CD design in conversation. See LinkedIn for current role and references.
 
 <!--
 **yibowdevops/yibowdevops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
